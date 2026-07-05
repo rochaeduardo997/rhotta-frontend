@@ -1,0 +1,123 @@
+{
+  "Common": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "create": "Criar",
+    "actions": "Ações",
+    "loading": "Carregando...",
+    "no-data": "Nenhum dado encontrado",
+    "search": "Buscar...",
+    "logout": "Sair",
+    "profile": "Perfil",
+    "admin": "Admin",
+    "yes": "Sim",
+    "no": "Não",
+    "description": "Descrição",
+    "name": "Nome",
+    "email": "E-mail",
+    "role": "Função",
+    "permission": "Permissão"
+  },
+  "Auth": {
+    "login-title": "Entrar no Rhotta",
+    "login-subtitle": "Gerencie suas frotas de veículos sem complicações",
+    "signup-title": "Criar uma Conta",
+    "signup-subtitle": "Comece a otimizar a gestão da sua frota",
+    "email": "Endereço de E-mail",
+    "password": "Senha",
+    "name": "Nome Completo",
+    "company": "Nome da Empresa (Opcional)",
+    "remember-me": "Lembrar-me",
+    "login-btn": "Entrar",
+    "signup-btn": "Criar Conta",
+    "go-to-signup": "Não tem uma conta? Cadastre-se",
+    "go-to-login": "Já tem uma conta? Entre aqui",
+    "invalid-credentials": "E-mail ou senha inválidos",
+    "error-signup": "Erro ao criar conta"
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Visão geral da sua rede de frotas",
+    "companies": "Total de Empresas",
+    "branches": "Total de Filiais",
+    "fleets": "Total de Frotas",
+    "vehicles": "Total de Veículos"
+  },
+  "Companies": {
+    "title": "Empresas",
+    "subtitle": "Gerenciar entidades empresariais",
+    "create-btn": "Adicionar Empresa",
+    "edit-title": "Editar Empresa",
+    "name-label": "Nome da Empresa",
+    "cnpj-label": "CNPJ (Apenas números)",
+    "users-btn": "Gerenciar Usuários",
+    "branches-btn": "Ver Filiais",
+    "save-success": "Empresa salva com sucesso",
+    "delete-success": "Empresa excluída com sucesso",
+    "users-title": "Usuários Associados",
+    "associate-btn": "Associar Usuário",
+    "disassociate-success": "Usuário desassociado com sucesso",
+    "associate-success": "Usuário associado com sucesso"
+  },
+  "Branches": {
+    "title": "Filiais",
+    "subtitle": "Filiais sob a empresa {companyName}",
+    "create-btn": "Adicionar Filial",
+    "edit-title": "Editar Filial",
+    "name-label": "Nome da Filial",
+    "desc-label": "Descrição da Filial",
+    "fleets-btn": "Ver Frotas",
+    "save-success": "Filial salva com sucesso",
+    "delete-success": "Filial excluída com sucesso"
+  },
+  "Fleets": {
+    "title": "Frotas",
+    "subtitle": "Frotas sob a filial {branchName}",
+    "create-btn": "Adicionar Frota",
+    "edit-title": "Editar Frota",
+    "name-label": "Nome da Frota",
+    "desc-label": "Descrição da Frota",
+    "vehicles-btn": "Ver Veículos",
+    "save-success": "Frota salva com sucesso",
+    "delete-success": "Frota excluída com sucesso"
+  },
+  "Vehicles": {
+    "title": "Veículos",
+    "subtitle": "Lista global de veículos e status",
+    "create-btn": "Adicionar Veículo",
+    "edit-operational": "Editar Status/Hodômetro",
+    "manufacturer": "Fabricante",
+    "model": "Modelo",
+    "plate": "Placa",
+    "status": "Status",
+    "odometer": "Hodômetro (km)",
+    "save-success": "Veículo salvo com sucesso",
+    "delete-success": "Veículo excluído com sucesso",
+    "upload-doc": "Enviar Documento",
+    "download-doc": "Baixar Documento",
+    "doc-success": "Documento atualizado com sucesso"
+  },
+  "Users": {
+    "title": "Gerenciamento de Usuários Admin",
+    "subtitle": "Criar e gerenciar usuários do sistema",
+    "create-btn": "Adicionar Usuário",
+    "edit-title": "Editar Usuário",
+    "save-success": "Usuário salvo com sucesso",
+    "delete-success": "Usuário excluído com sucesso"
+  },
+  "Profile": {
+    "title": "Meu Perfil",
+    "subtitle": "Atualize as configurações da sua conta pessoal",
+    "save-success": "Perfil atualizado com sucesso"
+  },
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "companies": "Empresas",
+    "vehicles": "Veículos",
+    "users": "Gestão de Usuários",
+    "profile": "Meu Perfil",
+    "logout": "Sair"
+  }
+}

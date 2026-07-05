@@ -1,0 +1,123 @@
+{
+  "Common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "actions": "Actions",
+    "loading": "Loading...",
+    "no-data": "No data found",
+    "search": "Search...",
+    "logout": "Logout",
+    "profile": "Profile",
+    "admin": "Admin",
+    "yes": "Yes",
+    "no": "No",
+    "description": "Description",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "permission": "Permission"
+  },
+  "Auth": {
+    "login-title": "Sign In to Rhotta",
+    "login-subtitle": "Manage your vehicle fleets seamlessly",
+    "signup-title": "Create an Account",
+    "signup-subtitle": "Start optimizing your fleet management",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "company": "Company Name (Optional)",
+    "remember-me": "Remember me",
+    "login-btn": "Sign In",
+    "signup-btn": "Create Account",
+    "go-to-signup": "Don't have an account? Sign up",
+    "go-to-login": "Already have an account? Sign in",
+    "invalid-credentials": "Invalid email or password",
+    "error-signup": "Error creating account"
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Overview of your fleet network",
+    "companies": "Total Companies",
+    "branches": "Total Branches",
+    "fleets": "Total Fleets",
+    "vehicles": "Total Vehicles"
+  },
+  "Companies": {
+    "title": "Companies",
+    "subtitle": "Manage company entities",
+    "create-btn": "Add Company",
+    "edit-title": "Edit Company",
+    "name-label": "Company Name",
+    "cnpj-label": "CNPJ (Numeric only)",
+    "users-btn": "Manage Users",
+    "branches-btn": "View Branches",
+    "save-success": "Company saved successfully",
+    "delete-success": "Company deleted successfully",
+    "users-title": "Associated Users",
+    "associate-btn": "Associate User",
+    "disassociate-success": "User disassociated successfully",
+    "associate-success": "User associated successfully"
+  },
+  "Branches": {
+    "title": "Branches",
+    "subtitle": "Branches under {companyName}",
+    "create-btn": "Add Branch",
+    "edit-title": "Edit Branch",
+    "name-label": "Branch Name",
+    "desc-label": "Branch Description",
+    "fleets-btn": "View Fleets",
+    "save-success": "Branch saved successfully",
+    "delete-success": "Branch deleted successfully"
+  },
+  "Fleets": {
+    "title": "Fleets",
+    "subtitle": "Fleets under {branchName}",
+    "create-btn": "Add Fleet",
+    "edit-title": "Edit Fleet",
+    "name-label": "Fleet Name",
+    "desc-label": "Fleet Description",
+    "vehicles-btn": "View Vehicles",
+    "save-success": "Fleet saved successfully",
+    "delete-success": "Fleet deleted successfully"
+  },
+  "Vehicles": {
+    "title": "Vehicles",
+    "subtitle": "Global vehicle list and status",
+    "create-btn": "Add Vehicle",
+    "edit-operational": "Edit Status/Odometer",
+    "manufacturer": "Manufacturer",
+    "model": "Model",
+    "plate": "Plate",
+    "status": "Status",
+    "odometer": "Odometer (km)",
+    "save-success": "Vehicle saved successfully",
+    "delete-success": "Vehicle deleted successfully",
+    "upload-doc": "Upload Document",
+    "download-doc": "Download Document",
+    "doc-success": "Document updated successfully"
+  },
+  "Users": {
+    "title": "Admin User Management",
+    "subtitle": "Create and manage system users",
+    "create-btn": "Add User",
+    "edit-title": "Edit User",
+    "save-success": "User saved successfully",
+    "delete-success": "User deleted successfully"
+  },
+  "Profile": {
+    "title": "My Profile",
+    "subtitle": "Update your personal account settings",
+    "save-success": "Profile updated successfully"
+  },
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "companies": "Companies",
+    "vehicles": "Vehicles",
+    "users": "Users Management",
+    "profile": "My Profile",
+    "logout": "Log Out"
+  }
+}
